@@ -1,41 +1,37 @@
-# a=3
-# b=4
-# print(a+b)
-# print(a-b)
-# print(a*b)
-# print(a/b)
+# word ="Nepali"
+# print(word.find("e"))
 
-# a=5-2
-# print(a)
-# b=4
-# b+=3
-# print(b)
+# word="Nepali is beautiful country"
+# print(word.replace("Nepali","Nepal"))
 
-# d=5>3
-# print(d)
-# e=5<3
-# print(e)
-# f=5>=3
-# print(f)
-# g=2!=1
-# print(g)
+# sentence="pradip is a bad  boy"
+# print(sentence.find("  "))
+# print(sentence)
 
-# a=True
-# b=False
-# print("a and b is:",a and b)
-# print("a or b is :",a or b)
-# print(not(a))
+# sentence = "pradip is a bad  boy"
+# print(sentence.replace("  ", " "))
 
-# var='name'
-# print(var.isidentifier())
+# word="Amazing"
+# print(word[1:5:2])
 
-a=4
-b=3.1
-c="rohit"
-d=False
-e=None
-print(type(a))
-print(type(b))
-print(type(c))
-print(type(d))
-print(type(e))
+# word=input("Enter a string :")
+# print("Reversed string :",word[::-1])
+
+# letter=''' Dear <|Name>,
+# you are selected !
+# <|Date>
+# '''
+# name=input("Enter your name")
+# date=input("Enter the date")
+# letter=letter.replace("<|Name>",name)
+# letter=letter.replace("<|Date>",date)
+# print(letter)
+
+# letter="Dear Rohit!\nfrom Nepal\nThanks"
+# print(letter)
+
+# word=input("Enter a string:")
+# print(word==word[::-1])
+
+# character=input("Enter a string :")
+# print("\n".join(character))

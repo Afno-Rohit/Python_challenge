@@ -18,5 +18,6 @@
 # character="Variable"
 # print(character.count("r"))
 
-character="rohit"
-print(character.capitalize())
+# character="rohit"
+# print(character.capitalize())
+
